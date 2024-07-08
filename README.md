@@ -1,5 +1,5 @@
 # Attendance-System-using-Face-Recognition
-A mini project that I completed in 2021 that is used to record attendance using the faces of the class students. So, essentially, due to the pandemic, our class lectures were taught online in 2021, and as a result, much of the teaching time was spent on attendance. I considered using a computer vision model to take attendance in the class, so that there would be less time spent on attendance and the model would keep a record of attendees in an excel sheet.
+A mini project completed in 2021 which is used to record attendance using the faces of the class students. So, essentially, due to the pandemic, our class lectures were taught online in 2021, and as a result, much of the teaching time was spent on attendance. I considered using a computer vision model to take attendance in the class, so that there would be less time spent on attendance and the model would keep a record of attendees in an excel sheet.
 
 So, Let’s dive deep into the technical side of the project, basically, according to online class, the attendance can be taken by two ways:
 
